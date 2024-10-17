@@ -1,0 +1,8 @@
+.caixa {
+    width: 300px; /* Largura da caixa */
+    height: 150px; /* Altura da caixa */
+    border: 2px solid #000; /* Espessura, estilo e cor da borda */
+    padding: 20px; /* Espaçamento interno */
+    background-color: #f9f9f9; /* Cor de fundo da caixa */
+    text-align: center; /* Alinhamento do texto */
+    }
